@@ -9,4 +9,5 @@
 [![Software I use](https://skills.thijs.gg/icons?i=visualstudio,vscode)](https://skills.thijs.gg)
 
 ## Discord 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/550912080627236874?theme=dark&bg=235a6f&hideDiscrim=true)](https://discord.com/users/796520457418965080)
+[![Discord Presence](https://lanyard.cnrad.dev/api/796520457418965080)](https://discord.com/users/796520457418965080)
+
