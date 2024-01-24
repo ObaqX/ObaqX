@@ -2,7 +2,7 @@
 
 ## Languages I know/work with
 
-[![Langauages](https://skills.thijs.gg/icons?i=cs,java,nodejs,js,py,css,html,cpp)](https://skills.thijs.gg)
+[![Langauages](https://skills.thijs.gg/icons?i=cs,java,nodejs,js,py,css,html,cpp,c#)](https://skills.thijs.gg)
 
 ## Software I use
 
